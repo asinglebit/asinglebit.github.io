@@ -1,0 +1,151 @@
+{"frames": {
+
+"trees.0001.png":
+{
+	"frame": {"x":1463,"y":1280,"w":389,"h":474},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":177,"y":270,"w":389,"h":474},
+	"sourceSize": {"w":750,"h":750}
+},
+"trees.0002.png":
+{
+	"frame": {"x":3,"y":1376,"w":390,"h":476},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":269,"w":390,"h":476},
+	"sourceSize": {"w":750,"h":750}
+},
+"trees.0003.png":
+{
+	"frame": {"x":1376,"y":3,"w":390,"h":476},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":269,"w":390,"h":476},
+	"sourceSize": {"w":750,"h":750}
+},
+"trees.0004.png":
+{
+	"frame": {"x":1375,"y":400,"w":390,"h":478},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":268,"w":390,"h":478},
+	"sourceSize": {"w":750,"h":750}
+},
+"trees.0005.png":
+{
+	"frame": {"x":978,"y":1285,"w":390,"h":479},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":268,"w":390,"h":479},
+	"sourceSize": {"w":750,"h":750}
+},
+"trees.0006.png":
+{
+	"frame": {"x":3,"y":890,"w":392,"h":480},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":175,"y":267,"w":392,"h":480},
+	"sourceSize": {"w":750,"h":750}
+},
+"trees.0007.png":
+{
+	"frame": {"x":889,"y":402,"w":392,"h":480},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":175,"y":267,"w":392,"h":480},
+	"sourceSize": {"w":750,"h":750}
+},
+"trees.0008.png":
+{
+	"frame": {"x":3,"y":3,"w":393,"h":482},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":174,"y":266,"w":393,"h":482},
+	"sourceSize": {"w":750,"h":750}
+},
+"trees.0009.png":
+{
+	"frame": {"x":3,"y":491,"w":393,"h":482},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":174,"y":266,"w":393,"h":482},
+	"sourceSize": {"w":750,"h":750}
+},
+"trees.0010.png":
+{
+	"frame": {"x":402,"y":3,"w":393,"h":482},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":174,"y":266,"w":393,"h":482},
+	"sourceSize": {"w":750,"h":750}
+},
+"trees.0011.png":
+{
+	"frame": {"x":491,"y":402,"w":392,"h":481},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":174,"y":267,"w":392,"h":481},
+	"sourceSize": {"w":750,"h":750}
+},
+"trees.0012.png":
+{
+	"frame": {"x":491,"y":889,"w":392,"h":481},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":174,"y":267,"w":392,"h":481},
+	"sourceSize": {"w":750,"h":750}
+},
+"trees.0013.png":
+{
+	"frame": {"x":890,"y":3,"w":391,"h":480},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":174,"y":268,"w":391,"h":480},
+	"sourceSize": {"w":750,"h":750}
+},
+"trees.0014.png":
+{
+	"frame": {"x":978,"y":800,"w":391,"h":479},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":174,"y":268,"w":391,"h":479},
+	"sourceSize": {"w":750,"h":750}
+},
+"trees.0015.png":
+{
+	"frame": {"x":401,"y":1287,"w":391,"h":477},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":175,"y":269,"w":391,"h":477},
+	"sourceSize": {"w":750,"h":750}
+},
+"trees.0016.png":
+{
+	"frame": {"x":1375,"y":884,"w":390,"h":476},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":269,"w":390,"h":476},
+	"sourceSize": {"w":750,"h":750}
+},
+"trees.0017.png":
+{
+	"frame": {"x":1463,"y":1280,"w":389,"h":474},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":177,"y":270,"w":389,"h":474},
+	"sourceSize": {"w":750,"h":750}
+}},
+"animations": {
+	"trees.": ["trees.0001.png","trees.0002.png","trees.0003.png","trees.0004.png","trees.0005.png","trees.0006.png","trees.0007.png","trees.0008.png","trees.0009.png","trees.0010.png","trees.0011.png","trees.0012.png","trees.0013.png","trees.0014.png","trees.0015.png","trees.0016.png","trees.0017.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "trees.png",
+	"format": "RGBA8888",
+	"size": {"w":1855,"h":1855},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:17f44664a630ab0db75ec32562cdc668:95b4aa2f62d06a1892344fd5ca0b49bb:ead410b59bd7de5235399502333842d0$"
+}
+}

@@ -1,0 +1,20 @@
+{"frames": {
+
+"interiors_carriage.png":
+{
+	"frame": {"x":1,"y":1,"w":1843,"h":824},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1843,"h":824},
+	"sourceSize": {"w":1843,"h":824}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "carriage.png",
+	"format": "RGBA8888",
+	"size": {"w":1845,"h":826},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:92eb38a2e1683f9a0717c6e232afb84c:9d3bf3f327cdbaeff22f66aa8730b26f:896ad011d1997910faefed0000a8bc00$"
+}
+}

@@ -1,0 +1,47 @@
+{"frames": {
+
+"animated_wheel_01.png":
+{
+	"frame": {"x":3,"y":3,"w":89,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":89,"h":54},
+	"sourceSize": {"w":90,"h":60}
+},
+"animated_wheel_02.png":
+{
+	"frame": {"x":98,"y":3,"w":76,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":4,"w":76,"h":54},
+	"sourceSize": {"w":90,"h":60}
+},
+"animated_wheel_03.png":
+{
+	"frame": {"x":180,"y":3,"w":81,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":4,"w":81,"h":53},
+	"sourceSize": {"w":90,"h":60}
+},
+"animated_wheel_04.png":
+{
+	"frame": {"x":267,"y":3,"w":79,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":4,"w":79,"h":53},
+	"sourceSize": {"w":90,"h":60}
+}},
+"animations": {
+	"animated_wheel": ["animated_wheel_01.png","animated_wheel_02.png","animated_wheel_03.png","animated_wheel_04.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "animated.png",
+	"format": "RGBA8888",
+	"size": {"w":349,"h":60},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:16eeed90d4cb26f9779b31e428e81b33:d8d7d16ac4d2154d020faab6937b01b0:d1d27150836d8e35b5dc2616f29abfc5$"
+}
+}

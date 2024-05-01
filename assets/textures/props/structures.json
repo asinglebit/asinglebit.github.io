@@ -1,0 +1,20 @@
+{"frames": {
+
+"structures_merchant.png":
+{
+	"frame": {"x":1,"y":1,"w":406,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":406,"h":326},
+	"sourceSize": {"w":410,"h":326}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "structures.png",
+	"format": "RGBA8888",
+	"size": {"w":408,"h":328},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4400d352357ce0d61ec6d5bd7f11455f:32376e9fd039c084ab9f7640d72e6eee:bb958d36433a82aa766340fd9b0aee71$"
+}
+}

@@ -1,0 +1,95 @@
+{"frames": {
+
+"characters_spydee_eyes_big.png":
+{
+	"frame": {"x":978,"y":1125,"w":191,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":332,"y":252,"w":191,"h":41},
+	"sourceSize": {"w":855,"h":565}
+},
+"characters_spydee_eyes_fill.png":
+{
+	"frame": {"x":505,"y":1020,"w":347,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":254,"y":193,"w":347,"h":145},
+	"sourceSize": {"w":855,"h":565}
+},
+"characters_spydee_eyes_small.png":
+{
+	"frame": {"x":505,"y":527,"w":322,"h":16},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":266,"y":205,"w":322,"h":16},
+	"sourceSize": {"w":855,"h":565}
+},
+"characters_spydee_legs_1.png":
+{
+	"frame": {"x":528,"y":3,"w":848,"h":292},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":57,"w":848,"h":292},
+	"sourceSize": {"w":855,"h":565}
+},
+"characters_spydee_legs_2.png":
+{
+	"frame": {"x":826,"y":3,"w":820,"h":291},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":260,"w":820,"h":291},
+	"sourceSize": {"w":855,"h":565}
+},
+"characters_spydee_legs_3.png":
+{
+	"frame": {"x":505,"y":857,"w":504,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":174,"y":394,"w":504,"h":157},
+	"sourceSize": {"w":855,"h":565}
+},
+"characters_spydee_legs_4.png":
+{
+	"frame": {"x":1015,"y":829,"w":290,"h":156},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":282,"y":379,"w":290,"h":156},
+	"sourceSize": {"w":855,"h":565}
+},
+"characters_spydee_torso_back.png":
+{
+	"frame": {"x":3,"y":3,"w":519,"h":518},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":167,"y":7,"w":519,"h":518},
+	"sourceSize": {"w":855,"h":565}
+},
+"characters_spydee_torso_front.png":
+{
+	"frame": {"x":858,"y":1020,"w":114,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":370,"y":335,"w":114,"h":132},
+	"sourceSize": {"w":855,"h":565}
+},
+"characters_spydee_torso_mid.png":
+{
+	"frame": {"x":3,"y":527,"w":496,"h":514},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":179,"y":9,"w":496,"h":514},
+	"sourceSize": {"w":855,"h":565}
+}},
+"animations": {
+	"characters_spydee_legs": ["characters_spydee_legs_1.png","characters_spydee_legs_2.png","characters_spydee_legs_3.png","characters_spydee_legs_4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "spydee.png",
+	"format": "RGBA8888",
+	"size": {"w":1174,"h":1174},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f27542100b32345ce555243054c6b5ec:50594af7d6a5324af43c4feb327e4392:5bb5abed157842fa9e16b1b6a9f2f2df$"
+}
+}

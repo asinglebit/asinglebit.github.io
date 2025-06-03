@@ -1,11 +1,59 @@
 {"frames": {
 
-"interiors_carriage.png":
+"interiors_carriage_backdrop.png":
 {
-	"frame": {"x":3,"y":3,"w":1837,"h":824},
+	"frame": {"x":3,"y":3,"w":1835,"h":817},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":6,"y":0,"w":1837,"h":824},
+	"spriteSourceSize": {"x":6,"y":3,"w":1835,"h":817},
+	"sourceSize": {"w":1843,"h":824}
+},
+"interiors_carriage_leaf_left.png":
+{
+	"frame": {"x":3,"y":1410,"w":658,"h":507},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":311,"w":658,"h":507},
+	"sourceSize": {"w":1843,"h":824}
+},
+"interiors_carriage_leaf_right.png":
+{
+	"frame": {"x":667,"y":1652,"w":540,"h":264},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1024,"y":212,"w":540,"h":264},
+	"sourceSize": {"w":1843,"h":824}
+},
+"interiors_carriage_shelves_left.png":
+{
+	"frame": {"x":830,"y":826,"w":586,"h":820},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":586,"h":820},
+	"sourceSize": {"w":1843,"h":824}
+},
+"interiors_carriage_shelves_right.png":
+{
+	"frame": {"x":3,"y":826,"w":578,"h":821},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1264,"y":0,"w":578,"h":821},
+	"sourceSize": {"w":1843,"h":824}
+},
+"interiors_carriage_webs_left.png":
+{
+	"frame": {"x":1422,"y":1485,"w":273,"h":283},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":514,"y":32,"w":273,"h":283},
+	"sourceSize": {"w":1843,"h":824}
+},
+"interiors_carriage_webs_right.png":
+{
+	"frame": {"x":1422,"y":826,"w":473,"h":653},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1330,"y":171,"w":473,"h":653},
 	"sourceSize": {"w":1843,"h":824}
 }},
 "meta": {
@@ -13,8 +61,8 @@
 	"version": "1.1",
 	"image": "carriage.png",
 	"format": "RGBA8888",
-	"size": {"w":1843,"h":1843},
+	"size": {"w":1920,"h":1920},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:2d8121cd9c9dca776631078b230c1f34:43b82c108ccabe15ff272905df50870a:896ad011d1997910faefed0000a8bc00$"
+	"smartupdate": "$TexturePacker:SmartUpdate:9f3a9794911635abdf9a848c3d8aab5e:1e95249041e1ae96431fec9e0ace5ab0:896ad011d1997910faefed0000a8bc00$"
 }
 }

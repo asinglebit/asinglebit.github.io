@@ -1,0 +1,201 @@
+{"frames": {
+
+"upgrades_consumable_1.png":
+{
+	"frame": {"x":224,"y":175,"w":58,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":100,"w":58,"h":49},
+	"sourceSize": {"w":250,"h":250}
+},
+"upgrades_consumable_2.png":
+{
+	"frame": {"x":251,"y":230,"w":58,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":96,"w":58,"h":53},
+	"sourceSize": {"w":250,"h":250}
+},
+"upgrades_consumable_3.png":
+{
+	"frame": {"x":140,"y":163,"w":78,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":93,"w":78,"h":55},
+	"sourceSize": {"w":250,"h":250}
+},
+"upgrades_consumable_4.png":
+{
+	"frame": {"x":77,"y":85,"w":74,"h":38},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":110,"w":74,"h":38},
+	"sourceSize": {"w":250,"h":250}
+},
+"upgrades_consumable_5.png":
+{
+	"frame": {"x":226,"y":101,"w":59,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":97,"w":59,"h":68},
+	"sourceSize": {"w":250,"h":250}
+},
+"upgrades_consumable_6.png":
+{
+	"frame": {"x":290,"y":60,"w":35,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":126,"w":35,"h":22},
+	"sourceSize": {"w":250,"h":250}
+},
+"upgrades_permanent_1.png":
+{
+	"frame": {"x":192,"y":283,"w":41,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":34,"w":41,"h":34},
+	"sourceSize": {"w":100,"h":100}
+},
+"upgrades_permanent_2.png":
+{
+	"frame": {"x":109,"y":165,"w":25,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":35,"w":25,"h":32},
+	"sourceSize": {"w":100,"h":100}
+},
+"upgrades_permanent_3.png":
+{
+	"frame": {"x":140,"y":283,"w":46,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":31,"w":46,"h":34},
+	"sourceSize": {"w":100,"h":100}
+},
+"upgrades_permanent_4.png":
+{
+	"frame": {"x":288,"y":175,"w":29,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":34,"w":29,"h":33},
+	"sourceSize": {"w":100,"h":100}
+},
+"upgrades_permanent_5.png":
+{
+	"frame": {"x":77,"y":165,"w":26,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":33,"w":26,"h":35},
+	"sourceSize": {"w":100,"h":100}
+},
+"upgrades_wearable_1.png":
+{
+	"frame": {"x":3,"y":85,"w":124,"h":68},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":40,"w":124,"h":68},
+	"sourceSize": {"w":250,"h":250}
+},
+"upgrades_wearable_2.png":
+{
+	"frame": {"x":226,"y":3,"w":92,"h":58},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":35,"w":92,"h":58},
+	"sourceSize": {"w":250,"h":250}
+},
+"upgrades_wearable_3.png":
+{
+	"frame": {"x":73,"y":215,"w":88,"h":61},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":50,"w":88,"h":61},
+	"sourceSize": {"w":250,"h":250}
+},
+"upgrades_wearable_4.png":
+{
+	"frame": {"x":3,"y":3,"w":118,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":28,"w":118,"h":76},
+	"sourceSize": {"w":250,"h":250}
+},
+"upgrades_wearable_5.png":
+{
+	"frame": {"x":3,"y":215,"w":93,"h":64},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":36,"w":93,"h":64},
+	"sourceSize": {"w":250,"h":250}
+},
+"upgrades_wearable_6.png":
+{
+	"frame": {"x":121,"y":101,"w":99,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":50,"w":99,"h":56},
+	"sourceSize": {"w":250,"h":250}
+},
+"upgrades_wearable_7.png":
+{
+	"frame": {"x":127,"y":3,"w":92,"h":93},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":45,"w":92,"h":93},
+	"sourceSize": {"w":250,"h":250}
+},
+"upgrades_wearable_8.png":
+{
+	"frame": {"x":140,"y":224,"w":76,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":82,"w":76,"h":53},
+	"sourceSize": {"w":250,"h":250}
+},
+"upgrades_wearable_9.png":
+{
+	"frame": {"x":290,"y":3,"w":25,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":124,"w":25,"h":51},
+	"sourceSize": {"w":250,"h":250}
+},
+"upgrades_wearable_10.png":
+{
+	"frame": {"x":291,"y":101,"w":33,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":120,"w":33,"h":23},
+	"sourceSize": {"w":250,"h":250}
+},
+"upgrades_wearable_11.png":
+{
+	"frame": {"x":239,"y":289,"w":20,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":98,"w":20,"h":31},
+	"sourceSize": {"w":250,"h":250}
+},
+"upgrades_wearable_12.png":
+{
+	"frame": {"x":222,"y":230,"w":47,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":104,"w":47,"h":23},
+	"sourceSize": {"w":250,"h":250}
+}},
+"animations": {
+	"upgrades_consumable": ["upgrades_consumable_1.png","upgrades_consumable_2.png","upgrades_consumable_3.png","upgrades_consumable_4.png","upgrades_consumable_5.png","upgrades_consumable_6.png"],
+	"upgrades_permanent": ["upgrades_permanent_1.png","upgrades_permanent_2.png","upgrades_permanent_3.png","upgrades_permanent_4.png","upgrades_permanent_5.png"],
+	"upgrades_wearable": ["upgrades_wearable_1.png","upgrades_wearable_2.png","upgrades_wearable_3.png","upgrades_wearable_4.png","upgrades_wearable_5.png","upgrades_wearable_6.png","upgrades_wearable_7.png","upgrades_wearable_8.png","upgrades_wearable_9.png","upgrades_wearable_10.png","upgrades_wearable_11.png","upgrades_wearable_12.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "upgrades.png",
+	"format": "RGBA8888",
+	"size": {"w":320,"h":320},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7e92aa57ba813b32b1dacc9d2f58213b:0ebde2851aa87911e2eef98c85f35cf0:e48388884c070f1e51c60e057397af98$"
+}
+}

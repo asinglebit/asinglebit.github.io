@@ -1,0 +1,199 @@
+{"frames": {
+
+"stone_0.png":
+{
+	"frame": {"x":1,"y":1,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_1.png":
+{
+	"frame": {"x":575,"y":746,"w":178,"h":158},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":42,"w":178,"h":158},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_2.png":
+{
+	"frame": {"x":392,"y":607,"w":200,"h":181},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":19,"w":200,"h":181},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_3.png":
+{
+	"frame": {"x":405,"y":381,"w":165,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":43,"w":165,"h":157},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_4.png":
+{
+	"frame": {"x":1,"y":203,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_5.png":
+{
+	"frame": {"x":735,"y":746,"w":178,"h":158},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":42,"w":178,"h":158},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_6.png":
+{
+	"frame": {"x":1,"y":405,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_7.png":
+{
+	"frame": {"x":1,"y":607,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_8.png":
+{
+	"frame": {"x":203,"y":1,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_9.png":
+{
+	"frame": {"x":405,"y":203,"w":165,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":24,"w":165,"h":176},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_10.png":
+{
+	"frame": {"x":572,"y":386,"w":180,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":180,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_11.png":
+{
+	"frame": {"x":405,"y":1,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_12.png":
+{
+	"frame": {"x":405,"y":1,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_13.png":
+{
+	"frame": {"x":607,"y":1,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_14.png":
+{
+	"frame": {"x":203,"y":607,"w":187,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_15.png":
+{
+	"frame": {"x":777,"y":203,"w":175,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":0,"w":175,"h":151},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_16.png":
+{
+	"frame": {"x":203,"y":203,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_17.png":
+{
+	"frame": {"x":405,"y":1,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_18.png":
+{
+	"frame": {"x":203,"y":405,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_19.png":
+{
+	"frame": {"x":754,"y":386,"w":172,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":172,"h":158},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_20.png":
+{
+	"frame": {"x":575,"y":588,"w":175,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":0,"w":175,"h":156},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_21.png":
+{
+	"frame": {"x":575,"y":203,"w":200,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":181},
+	"sourceSize": {"w":200,"h":200}
+},
+"stone_22.png":
+{
+	"frame": {"x":754,"y":546,"w":172,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":172,"h":157},
+	"sourceSize": {"w":200,"h":200}
+}},
+"animations": {
+	"stone": ["stone_0.png","stone_1.png","stone_2.png","stone_3.png","stone_4.png","stone_5.png","stone_6.png","stone_7.png","stone_8.png","stone_9.png","stone_10.png","stone_11.png","stone_12.png","stone_13.png","stone_14.png","stone_15.png","stone_16.png","stone_17.png","stone_18.png","stone_19.png","stone_20.png","stone_21.png","stone_22.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "stone.png",
+	"format": "RGBA8888",
+	"size": {"w":929,"h":929},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:644286aed604cf3b7661ebbbf24041ab:f647f43fabb4d971ab7928d55c344753:498686f496408b5c10e8f273f4b4bfab$"
+}
+}

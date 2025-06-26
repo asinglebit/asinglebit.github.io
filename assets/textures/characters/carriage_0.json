@@ -162,7 +162,6 @@
 	"format": "RGBA8888",
 	"size": {"w":1959,"h":1959},
 	"scale": "0.6",
-	"related_multi_packs": [ "carriage_1.json" ],
 	"smartupdate": "$TexturePacker:SmartUpdate:c422da203568308b794c7674b8c059b5:8868ef908abfa8e35266c861fefbee17:059876bad9182dc1823528c329d1af24$"
 }
 }

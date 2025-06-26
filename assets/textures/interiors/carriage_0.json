@@ -1,0 +1,52 @@
+{"frames": {
+
+"interiors_carriage_backdrop.png":
+{
+	"frame": {"x":1,"y":1,"w":1835,"h":821},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":1835,"h":821},
+	"sourceSize": {"w":1843,"h":824}
+},
+"interiors_carriage_leaf_left.png":
+{
+	"frame": {"x":1,"y":824,"w":1804,"h":707},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":117,"w":1804,"h":707},
+	"sourceSize": {"w":1843,"h":824}
+},
+"interiors_carriage_shelves_left_top.png":
+{
+	"frame": {"x":656,"y":1533,"w":571,"h":372},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":571,"h":372},
+	"sourceSize": {"w":1843,"h":824}
+},
+"interiors_carriage_shelves_right_top.png":
+{
+	"frame": {"x":1229,"y":1533,"w":555,"h":372},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1263,"y":0,"w":555,"h":372},
+	"sourceSize": {"w":1843,"h":824}
+},
+"interiors_carriage_webs_right.png":
+{
+	"frame": {"x":1,"y":1533,"w":473,"h":653},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1330,"y":171,"w":473,"h":653},
+	"sourceSize": {"w":1843,"h":824}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "carriage_0.png",
+	"format": "RGBA8888",
+	"size": {"w":2007,"h":2007},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8f612cbcf082d83b53f6961c67c78cd3:192869b3e0f79af96f3f88030e4c60d9:059876bad9182dc1823528c329d1af24$"
+}
+}
